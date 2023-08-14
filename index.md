@@ -1,4 +1,4 @@
-# Willkommen, Bienvenue ...
+# Her some markdown samples ...
 
 ## some images
 ![image godo to cat](https://octodex.github.com/images/godotocat.png)
@@ -19,3 +19,10 @@ int value = 0;
 value++;
 ```
 
+## a task list
+Here a simple task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+  - [X] sub item 1
+  - [ ] sub item 2
